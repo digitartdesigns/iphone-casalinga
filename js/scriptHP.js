@@ -1,4 +1,4 @@
 $(document).ready(function() {
-var url = "http://casalinga.digitartdesigns.com/?app";     
+var url = "http://casalingafoods.com/?app";     
 $(location).attr('href',url);
 });
